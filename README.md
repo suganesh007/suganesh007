@@ -5,6 +5,9 @@
 <h2>💻 Skills & Interests:</h2>
           Proficient in Python, Java, and C.Experienced with web development using HTML, CSS, and JavaScript.
           Strong interest in data structures, algorithms, and building scalable software solutions.
+
+<h1>RESUME<h1>
+          <a href=""><b>MY_RESUME</b></a>
 <h2>🚀 Current Focus:</h2>
           Enhancing my skills in front-end development.
           Working on mini-projects like a student database management system, encryption tools, and game simulations.
