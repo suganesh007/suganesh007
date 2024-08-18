@@ -1,7 +1,8 @@
 **<h1>👋Hi there! I’m SUGANESHWARAN S</h1>**
 <h2>🎓 Background:</h2>
-          Mechanical Engineering graduate with a strong foundation in analytical thinking and problem-solving.
-          Transitioning into software development, driven by a passion for technology and innovation.
+          A passionate software developer with a focus on Python and web technologies. <br>
+          I love building innovative solutions and exploring new tech. <br>
+          Dive into my account to see my projects and skills in action! 🚀
 <h2>💻 Skills & Interests:</h2>
           Proficient in Python, Java, and C.Experienced with web development using HTML, CSS, and JavaScript.
           Strong interest in data structures, algorithms, and building scalable software solutions.
