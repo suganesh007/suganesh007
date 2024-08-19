@@ -28,9 +28,9 @@
         <h4>Email:</h4>
              <a href="mailto:sgeethasugan2003@gmail.com" target = "_blank"> sgeethasugan2003@gmail.com</a>
         <h4>LinkedIn:</h4>
-            https://www.linkedin.com/in/suganeshwaran-s-8141622b
+            <a href= "https://www.linkedin.com/in/suganeshwaran-s-8141622b" target = "_blank"> https://www.linkedin.com/in/suganeshwaran-s-8141622b</a>
         <h4>Portfolio:</h4>
-                https://suganesh007.github.io/MY_PORTFOLIO/
+                <a href= "https://suganesh007.github.io/MY_PORTFOLIO/" target = "_blank">https://suganesh007.github.io/MY_PORTFOLIO/</a>
 <h2>💬 Fun Fact:</h2>
         I love diving into complex problems and finding elegant solutions, whether it's in code or life!
 
