@@ -26,7 +26,7 @@
           To contribute to impactful projects that make a difference in people’s lives.
 <h2>📫 Get in Touch:</h2>
         <h4>Email:</h4>
-              sgeethasugan2003@gmail.com
+             <a href="mailto:sgeethasugan2003@gmail.com" target = "_blank"> sgeethasugan2003@gmail.com</a>
         <h4>LinkedIn:</h4>
             https://www.linkedin.com/in/suganeshwaran-s-8141622b
         <h4>Portfolio:</h4>
