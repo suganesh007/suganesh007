@@ -28,7 +28,7 @@
         <h4>Email:</h4>
              <a href="mailto:sgeethasugan2003@gmail.com" target = "_blank"> sgeethasugan2003@gmail.com</a>
         <h4>LinkedIn:</h4>
-            <a href= "https://www.linkedin.com/in/suganeshwaran-s-8141622b" target = "_blank"> https://www.linkedin.com/in/suganeshwaran-s-8141622b</a>
+            <a href= "https://www.linkedin.com/in/suganeshwaran-s-8141622b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target = "_blank"> https://www.linkedin.com/in/suganeshwaran-s</a>
         <h4>Portfolio:</h4>
                 <a href= "https://suganesh007.github.io/MY_PORTFOLIO/" target = "_blank">https://suganesh007.github.io/MY_PORTFOLIO/</a>
 <h2>💬 Fun Fact:</h2>
