@@ -9,7 +9,7 @@
 
 <h1>RESUME<h1>
           <a href="SUGANESH_RESUME.pdf" download="SUGANESH_RESUME.pdf">
-               CLICK HERE TO DOWNLOAD MY RESUME
+               CLICK HERE TO DOWNLOAD MY RESUME (plz select raw material to download after clicking)
               </a>
 <h2>🚀 Current Focus:</h2>
           Enhancing my skills in front-end development.
