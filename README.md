@@ -9,8 +9,9 @@
 
 <h1>RESUME<h1>
           <a href="SUGANESH_RESUME.pdf" download="SUGANESH_RESUME.pdf">
-               CLICK HERE TO DOWNLOAD MY RESUME (plz select raw material to download after clicking)
-              </a>
+               CLICK HERE TO DOWNLOAD MY RESUME </a> <br>
+          (plz select raw material to download after clicking 👆)
+              
 <h2>🚀 Current Focus:</h2>
           Enhancing my skills in front-end development.
           Working on mini-projects like a student database management system, encryption tools, and game simulations.
