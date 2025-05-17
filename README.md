@@ -8,7 +8,7 @@
           Strong interest in data structures, algorithms, and building scalable software solutions.
 
 <h1>RESUME<h1>
-          <a href="SUGANESH_RESUME.pdf" download="SUGANESH_RESUME.pdf">
+          <a href="new final resume TCS.pdf" download="SUGANESH_RESUME.pdf">
                CLICK HERE TO DOWNLOAD MY RESUME </a> <br>
           (plz select raw material to download after clicking 👆)
               
